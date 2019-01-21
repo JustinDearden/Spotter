@@ -6,6 +6,7 @@ include("includes/handlers/register-handler.php");
 include("includes/handlers/login-handler.php");
 ?>
 
+
 <html>
     <head>
         <title>welcome to Spotter</title>
