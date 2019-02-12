@@ -32,25 +32,33 @@ else {
 						<img src="assets/images/icons/logo.png">
 					</a>
 
+
 					<div class="group">
+
 						<div class="navItem">
 							<a href="search.php" class="navItemLink">Search
 								<img src="assets/images/icons/search.png" class="icon" alt="Search">
 							</a>
 						</div>
+
 					</div>
 
 					<div class="group">
-					<div class="navItem">
+						<div class="navItem">
 							<a href="browse.php" class="navItemLink">Browse</a>
 						</div>
+
 						<div class="navItem">
-							<a href="yourmusic.php" class="navItemLink">Your Music</a>
+							<a href="yourMusic.php" class="navItemLink">Your Music</a>
 						</div>
+
 						<div class="navItem">
-							<a href="profile.php" class="navItemLink">Your Profile</a>
+							<a href="profile.php" class="navItemLink">Reece Kenney</a>
 						</div>
 					</div>
+
+
+
 
 				</nav>
 			</div>
@@ -71,11 +79,11 @@ else {
 						<div class="trackInfo">
 
 							<span class="trackName">
-								<span>Track Name</span>
+								<span>Happy Birthday</span>
 							</span>
 
 							<span class="artistName">
-								<span>Artist Name</span>
+								<span>Reece Kenney</span>
 							</span>
 
 						</div>
