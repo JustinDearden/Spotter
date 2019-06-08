@@ -17,7 +17,7 @@
 
 <html>
 <head>
-	<title>Welcome to Spotter!</title>
+	<title>Welcome to Slotify!</title>
 
 	<link rel="stylesheet" type="text/css" href="assets/css/register.css">
 
@@ -57,7 +57,7 @@
 					<p>
 						<?php echo $account->getError(Constants::$loginFailed); ?>
 						<label for="loginUsername">Username</label>
-						<input id="loginUsername" name="loginUsername" type="text" placeholder="e.g. bartSimpson" value="<?php getInputValue('loginUsername') ?>" required>
+						<input id="loginUsername" name="loginUsername" type="text" placeholder="e.g. bartSimpson" value="<?php getInputValue('loginUsername') ?>" required autocomplete="off">
 					</p>
 					<p>
 						<label for="loginPassword">Password</label>
